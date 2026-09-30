@@ -1,0 +1,14 @@
+C:\school\3\VIS\CV3\Table\Table\bin\Debug\net8.0\Table.exe
+C:\school\3\VIS\CV3\Table\Table\bin\Debug\net8.0\Table.deps.json
+C:\school\3\VIS\CV3\Table\Table\bin\Debug\net8.0\Table.runtimeconfig.json
+C:\school\3\VIS\CV3\Table\Table\bin\Debug\net8.0\Table.dll
+C:\school\3\VIS\CV3\Table\Table\bin\Debug\net8.0\Table.pdb
+C:\school\3\VIS\CV3\Table\Table\obj\Debug\net8.0\Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\3\VIS\CV3\Table\Table\obj\Debug\net8.0\Table.AssemblyInfoInputs.cache
+C:\school\3\VIS\CV3\Table\Table\obj\Debug\net8.0\Table.AssemblyInfo.cs
+C:\school\3\VIS\CV3\Table\Table\obj\Debug\net8.0\Table.csproj.CoreCompileInputs.cache
+C:\school\3\VIS\CV3\Table\Table\obj\Debug\net8.0\Table.dll
+C:\school\3\VIS\CV3\Table\Table\obj\Debug\net8.0\refint\Table.dll
+C:\school\3\VIS\CV3\Table\Table\obj\Debug\net8.0\Table.pdb
+C:\school\3\VIS\CV3\Table\Table\obj\Debug\net8.0\Table.genruntimeconfig.cache
+C:\school\3\VIS\CV3\Table\Table\obj\Debug\net8.0\ref\Table.dll

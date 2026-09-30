@@ -1,0 +1,14 @@
+C:\school\3\VIS\CV3\Transaction\Transaction\bin\Debug\net8.0\Transaction.exe
+C:\school\3\VIS\CV3\Transaction\Transaction\bin\Debug\net8.0\Transaction.deps.json
+C:\school\3\VIS\CV3\Transaction\Transaction\bin\Debug\net8.0\Transaction.runtimeconfig.json
+C:\school\3\VIS\CV3\Transaction\Transaction\bin\Debug\net8.0\Transaction.dll
+C:\school\3\VIS\CV3\Transaction\Transaction\bin\Debug\net8.0\Transaction.pdb
+C:\school\3\VIS\CV3\Transaction\Transaction\obj\Debug\net8.0\Transaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\3\VIS\CV3\Transaction\Transaction\obj\Debug\net8.0\Transaction.AssemblyInfoInputs.cache
+C:\school\3\VIS\CV3\Transaction\Transaction\obj\Debug\net8.0\Transaction.AssemblyInfo.cs
+C:\school\3\VIS\CV3\Transaction\Transaction\obj\Debug\net8.0\Transaction.csproj.CoreCompileInputs.cache
+C:\school\3\VIS\CV3\Transaction\Transaction\obj\Debug\net8.0\Transaction.dll
+C:\school\3\VIS\CV3\Transaction\Transaction\obj\Debug\net8.0\refint\Transaction.dll
+C:\school\3\VIS\CV3\Transaction\Transaction\obj\Debug\net8.0\Transaction.pdb
+C:\school\3\VIS\CV3\Transaction\Transaction\obj\Debug\net8.0\Transaction.genruntimeconfig.cache
+C:\school\3\VIS\CV3\Transaction\Transaction\obj\Debug\net8.0\ref\Transaction.dll

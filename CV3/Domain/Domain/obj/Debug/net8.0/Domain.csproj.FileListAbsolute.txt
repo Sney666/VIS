@@ -1,0 +1,14 @@
+C:\school\3\VIS\CV3\Domain\Domain\bin\Debug\net8.0\Domain.exe
+C:\school\3\VIS\CV3\Domain\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\school\3\VIS\CV3\Domain\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\school\3\VIS\CV3\Domain\Domain\bin\Debug\net8.0\Domain.dll
+C:\school\3\VIS\CV3\Domain\Domain\bin\Debug\net8.0\Domain.pdb
+C:\school\3\VIS\CV3\Domain\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\3\VIS\CV3\Domain\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\school\3\VIS\CV3\Domain\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\school\3\VIS\CV3\Domain\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\school\3\VIS\CV3\Domain\Domain\obj\Debug\net8.0\Domain.dll
+C:\school\3\VIS\CV3\Domain\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\school\3\VIS\CV3\Domain\Domain\obj\Debug\net8.0\Domain.pdb
+C:\school\3\VIS\CV3\Domain\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\school\3\VIS\CV3\Domain\Domain\obj\Debug\net8.0\ref\Domain.dll
