@@ -1,0 +1,14 @@
+C:\school\3\VIS\CV2\CV2\obj\Debug\net8.0\CV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\3\VIS\CV2\CV2\obj\Debug\net8.0\CV2.AssemblyInfoInputs.cache
+C:\school\3\VIS\CV2\CV2\obj\Debug\net8.0\CV2.AssemblyInfo.cs
+C:\school\3\VIS\CV2\CV2\obj\Debug\net8.0\CV2.csproj.CoreCompileInputs.cache
+C:\school\3\VIS\CV2\CV2\bin\Debug\net8.0\CV2.exe
+C:\school\3\VIS\CV2\CV2\bin\Debug\net8.0\CV2.deps.json
+C:\school\3\VIS\CV2\CV2\bin\Debug\net8.0\CV2.runtimeconfig.json
+C:\school\3\VIS\CV2\CV2\bin\Debug\net8.0\CV2.dll
+C:\school\3\VIS\CV2\CV2\bin\Debug\net8.0\CV2.pdb
+C:\school\3\VIS\CV2\CV2\obj\Debug\net8.0\CV2.dll
+C:\school\3\VIS\CV2\CV2\obj\Debug\net8.0\refint\CV2.dll
+C:\school\3\VIS\CV2\CV2\obj\Debug\net8.0\CV2.pdb
+C:\school\3\VIS\CV2\CV2\obj\Debug\net8.0\CV2.genruntimeconfig.cache
+C:\school\3\VIS\CV2\CV2\obj\Debug\net8.0\ref\CV2.dll
