@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "ZakaznikId": 1,
+    "MaterialId": 1,
+    "Sirka": 1200,
+    "Vyska": 750,
+    "Hloubka": 600,
+    "Stav": "CEKA_NA_POTVRZENI"
+  }
+]

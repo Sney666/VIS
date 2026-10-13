@@ -1,0 +1,14 @@
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\bin\Debug\net8.0\IdentityMap.exe
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\bin\Debug\net8.0\IdentityMap.deps.json
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\bin\Debug\net8.0\IdentityMap.runtimeconfig.json
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\bin\Debug\net8.0\IdentityMap.dll
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\bin\Debug\net8.0\IdentityMap.pdb
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\obj\Debug\net8.0\IdentityMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\obj\Debug\net8.0\IdentityMap.AssemblyInfoInputs.cache
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\obj\Debug\net8.0\IdentityMap.AssemblyInfo.cs
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\obj\Debug\net8.0\IdentityMap.csproj.CoreCompileInputs.cache
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\obj\Debug\net8.0\IdentityMap.dll
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\obj\Debug\net8.0\refint\IdentityMap.dll
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\obj\Debug\net8.0\IdentityMap.pdb
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\obj\Debug\net8.0\IdentityMap.genruntimeconfig.cache
+C:\school\3\VIS\CV5\IdentityMap\IdentityMap\obj\Debug\net8.0\ref\IdentityMap.dll
